@@ -1,17 +1,16 @@
-
 /* Your CSS Code here. */
-
-.container{
+.main{
 	width: 200px;
-    
 	background-color: rgb(128,0,128); 
-    border-left-width: 5px;
-    border-left-color: rgb(0,128,0) ;
     padding: 10px;
 }
 
-h2{
+.heading h1{
     font-size: 20px;
     color: rgb(255,255,255);
-    display: inline;
+}
+
+#heading{
+	border-left-width: 5px;
+    border-left-color: rgb(0,128,0);
 }
